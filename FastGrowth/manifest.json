@@ -1,0 +1,10 @@
+﻿{
+    "Name": "Fast Growth",
+    "Author": "Nat5",
+    "Version": "1.0",
+    "Description": "Makes crops grow twice as fast!",
+    "UniqueID": "Nat5.FastGrowth",
+    "EntryDll": "FastGrowth.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}

@@ -1,0 +1,10 @@
+﻿{
+    "Name": "Lucky Days",
+    "Author": "Nat5",
+    "Version": "1.0",
+    "Description": "Makes every day a luckier day!",
+    "UniqueID": "Nat5.LuckyDays",
+    "EntryDll": "LuckyDays.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
